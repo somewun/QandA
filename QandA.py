@@ -13,7 +13,7 @@ question_number = 0
 app = QApplication(sys.argv)
 win = QWidget()
 
-l1 = 	QLabel()
+l1 = QLabel()
 l2 = QLabel()
 l3 = QLabel()
 l4 = QLabel()
@@ -106,7 +106,7 @@ def b4_clicked(self):
 		msg=QMessageBox()
 		msg.setIcon(QMessageBox.Information)
 		msg.setText("A simple Quesion and Answer Quiz aimed at revision")
-		msg.setInformativeText("This acts a que cards for revision purposes where you can test yourself on questions from a list of questions you have written show details for more information.")
+		msg.setInformativeText("This acts a cue cards for revision purposes where you can test yourself on questions from a list of questions you have written show details for more information.")
 		msg.setWindowTitle("About QandA")
 		
 		msg.setDetailedText("""Details on how to use this application: 
