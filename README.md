@@ -1,6 +1,6 @@
 # QandA
 A simple Quesion and Answer Quiz aimed at revision.
-This acts a que cards for revision purposes where you can test yourself on questions from a list of questions you have written show details for more information.
+This acts a cue cards for revision purposes where you can test yourself on questions from a list of questions you have written show details for more information.
 
 Details on how to use this application: 
 
