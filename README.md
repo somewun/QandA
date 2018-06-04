@@ -17,6 +17,8 @@ ID,Question,Answer
 1,What is Phtosynthesis?,Photosynthesis is the change of water and CO2 into Glucose and O2 in plants
 2,What does Amylase break down?,Starch
 
+An example QandA.csv file is atached
+
 Latest version 0.1.0.
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
